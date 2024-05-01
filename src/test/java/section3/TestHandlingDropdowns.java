@@ -1,3 +1,5 @@
+package section3;
+
 import com.microsoft.playwright.*;
 import com.microsoft.playwright.options.SelectOption;
 import org.testng.annotations.Test;

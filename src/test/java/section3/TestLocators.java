@@ -1,3 +1,5 @@
+package section3;
+
 import com.microsoft.playwright.*;
 import org.testng.annotations.Test;
 
