@@ -1,3 +1,29 @@
-Code exercises for the Udemy course: Master Microsoft Playwright with Core Java(Basics + Advance)
+# Playwright Learning 
 
-Link: https://www.udemy.com/course/playwright-java-tutorial/
+This repository contains the coding exercises in the Udemy course "Master Microsoft Playwright with Core Java(Basics + Advance)"
+
+[Click here for the link to the course](https://www.udemy.com/course/playwright-java-tutorial/)
+
+## Sections
+
+### Section 1
+Introduction to Playwright
+
+### Section 2
+- How to maximize windows
+- Launching browser in Chrome, Firefox, Edge
+- Navigation methods i.e. goBack(), goForward(), reload()
+
+### Section 3
+- Handling elements and different Selector strategies
+- Handling dropdown list
+- Handling links
+- Handling checkboxes
+
+### Section 4
+- Handling JavaScript Dialogs/Alerts
+- Handling Frames
+- Handling Tabs and Popups
+
+### Section 5
+- Handling MouseOver menus
