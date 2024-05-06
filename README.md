@@ -27,3 +27,5 @@ Introduction to Playwright
 
 ### Section 5
 - Handling MouseOver menus
+- Handling Sliders
+- Handling Resizable Elements
