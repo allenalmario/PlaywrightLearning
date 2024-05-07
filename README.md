@@ -29,3 +29,4 @@ Introduction to Playwright
 - Handling MouseOver menus
 - Handling Sliders
 - Handling Resizable Elements
+- Handling Drag and Drop
