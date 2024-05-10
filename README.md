@@ -30,3 +30,7 @@ Introduction to Playwright
 - Handling Sliders
 - Handling Resizable Elements
 - Handling Drag and Drop
+
+### Section 6
+- Handling Evaluating Javascript
+- Handling Keyboard Events
