@@ -34,3 +34,8 @@ Introduction to Playwright
 ### Section 6
 - Handling Evaluating Javascript
 - Handling Keyboard Events
+
+### Section 7
+- Uploading Files
+- Uploading Multiple Files
+- Downloading a File
