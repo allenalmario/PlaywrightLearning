@@ -4,6 +4,10 @@ This repository contains the coding exercises in the Udemy course "Master Micros
 
 [Click here for the link to the course](https://www.udemy.com/course/playwright-java-tutorial/)
 
+## Depedencies needed
+- Playwright
+- TestNG
+
 ## Sections
 
 ### Section 1
@@ -42,3 +46,8 @@ Introduction to Playwright
 
 ### Section 8
 - Handling Basic Authentication
+
+### Section 9
+- Capturing Screenshots
+- Capturing Videos
+- Trace Viewer
