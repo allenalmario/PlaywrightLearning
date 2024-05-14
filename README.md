@@ -39,3 +39,6 @@ Introduction to Playwright
 - Uploading Files
 - Uploading Multiple Files
 - Downloading a File
+
+### Section 8
+- Handling Basic Authentication
