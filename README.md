@@ -51,3 +51,7 @@ Introduction to Playwright
 - Capturing Screenshots
 - Capturing Videos
 - Trace Viewer
+
+### Section 10
+- Assertions
+- Handling Web Tables
