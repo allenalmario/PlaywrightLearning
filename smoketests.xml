@@ -3,12 +3,12 @@
 <suite name="Smoke Test Suite">
     <test name="Smoke Test Login Test">
         <classes>
-            <class name="SmokeTests.TestNGAnnotations"/>
+            <class name="section12.SmokeTests.TestNGAnnotations"/>
         </classes>
     </test>
     <test name="Smoke Test Dependency Test">
         <classes>
-            <class name="SmokeTests.TestDependencies"/>
+            <class name="section12.SmokeTests.TestDependencies"/>
         </classes>
     </test>
 </suite>

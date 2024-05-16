@@ -62,3 +62,5 @@ Introduction to Playwright
 - Test Dependencies
 - Annotations
 - Test Suites via XML
+- Listeners
+- Skip a Test

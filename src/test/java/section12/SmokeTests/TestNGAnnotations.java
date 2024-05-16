@@ -1,4 +1,4 @@
-package SmokeTests;
+package section12.SmokeTests;
 
 import org.testng.annotations.*;
 

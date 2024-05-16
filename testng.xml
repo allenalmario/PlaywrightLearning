@@ -1,6 +1,10 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite name="Functional Suite">
+    
+    <listeners>
+        <listener class-name="section12.customListeners.Listeners"></listener>
+    </listeners>
     <test name="Login Test">
         <classes>
             <class name="section12.TestNGAnnotations"/>
@@ -12,6 +16,11 @@
         </classes>
     </test>
     <test name="Dependency Test">
+        <classes>
+            <class name="section12.TestDependencies"/>
+        </classes>
+    </test>
+    <test name="Failure Test">
         <classes>
             <class name="section12.TestDependencies"/>
         </classes>
