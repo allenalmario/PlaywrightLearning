@@ -64,3 +64,4 @@ Introduction to Playwright
 - Test Suites via XML
 - Listeners
 - Skip a Test
+- Before and After Suite annotations
