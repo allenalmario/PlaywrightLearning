@@ -55,3 +55,10 @@ Introduction to Playwright
 ### Section 10
 - Assertions
 - Handling Web Tables
+
+### Section 12
+- TestNG
+- Assertions
+- Test Dependencies
+- Annotations
+- Test Suites via XML

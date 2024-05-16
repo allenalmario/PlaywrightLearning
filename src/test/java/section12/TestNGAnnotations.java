@@ -2,7 +2,7 @@ package section12;
 
 import org.testng.annotations.*;
 
-public class TestCase1 {
+public class TestNGAnnotations {
 
     @BeforeTest
     public void createDBConn() {

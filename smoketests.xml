@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Test Suite">
+    <test name="Smoke Test Login Test">
+        <classes>
+            <class name="SmokeTests.TestNGAnnotations"/>
+        </classes>
+    </test>
+    <test name="Smoke Test Dependency Test">
+        <classes>
+            <class name="SmokeTests.TestDependencies"/>
+        </classes>
+    </test>
+</suite>

@@ -3,7 +3,7 @@ package section12;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestCase2 {
+public class Assertions {
 
     @Test
     public void validateTitles() {
