@@ -7,6 +7,7 @@ This repository contains the coding exercises in the Udemy course "Master Micros
 ## Depedencies needed
 - Playwright
 - TestNG
+- ExtentReports
 
 ## Sections
 
@@ -65,3 +66,6 @@ Introduction to Playwright
 - Listeners
 - Skip a Test
 - Before and After Suite annotations
+
+### Section 14
+- Generating Extent Reports
