@@ -69,3 +69,6 @@ Introduction to Playwright
 
 ### Section 14
 - Generating Extent Reports
+
+### Section 15
+- Data Driven / Keyword Hybrid Framework
